@@ -1,0 +1,42 @@
+.final-container {
+  max-width: 600px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.final-title {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #2e7d32;
+}
+
+.final-message {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.final-timestamp {
+  font-size: 1rem;
+  font-style: italic;
+  margin-bottom: 1.5rem;
+}
+
+.final-buttons button {
+  padding: 0.6rem 1rem;
+  margin: 0.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #0066cc;
+  color: white;
+}
+
+.final-buttons button:hover {
+  background-color: #004c99;
+}
