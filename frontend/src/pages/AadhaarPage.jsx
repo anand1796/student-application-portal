@@ -17,7 +17,7 @@ const AadhaarPage = () => {
     e.preventDefault();
 
     if (!aadhaarNumber || !name || !dob) {
-      setMessage("All fields are required.");
+      setMessage("All fields are required..");
       return;
     }
 
